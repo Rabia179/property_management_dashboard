@@ -1,4 +1,5 @@
 # property_management_dashboard
+<img width="439" height="1280" alt="WhatsApp Image 2026-08-28 at 2 00 38 PM" src="https://github.com/user-attachments/assets/1986f4f5-5e68-4e4a-9c0e-1b2fc0fe59ba" />
 
 A new Flutter project.
 
